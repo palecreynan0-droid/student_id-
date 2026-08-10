@@ -1,0 +1,101 @@
+main {
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+
+section {
+  background-color: #f0f9f9;
+  padding: 25px;
+  margin-bottom: 25px;
+  border: 1px solid #d4e1e1;
+  border-left: 5px solid #2980b9;
+}
+
+
+section h2 {
+  color: #152576;
+  margin-bottom: 15px;
+}
+
+
+aside {
+  background-color: #d4e1f1;
+  padding: 25px;
+  margin-bottom: 20px;
+  border: 2px solid #2980b9;
+}
+
+aside h3 {
+  color: #152576;
+  margin-bottom: 10px;
+}
+
+
+footer {
+  background-color: #f1a527;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 0.9em;
+}
+
+
+.list-style-type {
+  list-style-type: square;
+  padding-left: 25px;
+}
+
+ul {
+  margin: 8px 0;
+  padding: 0;
+  list-style: square;
+  color: #2c3e50;
+}
+
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fef3f5;
+  color: #1e1e1e;
+  line-height: 1.4;
+  padding: 20px;
+  margin: 0;
+  border-bax: 0; 
+}
+
+
+.highlight {
+  background-color: #e07e22;
+  font-weight: bold;
+}
+
+.project-item {
+  background-color: #f8f0f0;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #d4d4d4;
+}
+
+.project-item h3 {
+  color: #1a5f76;
+}
+
+.button {
+  display: inline-block;
+  background-color: #e057e2;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 5px;
+  border: none;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #d35400;
+}
